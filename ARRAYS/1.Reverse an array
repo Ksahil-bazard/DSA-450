@@ -1,4 +1,5 @@
-```c++
+````
+```
 void rvereseArray(int arr[], int start, int end)
 {
     while (start < end)
@@ -11,3 +12,4 @@ void rvereseArray(int arr[], int start, int end)
     } 
 } 
 ```
+````
