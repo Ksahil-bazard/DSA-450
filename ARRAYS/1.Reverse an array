@@ -1,4 +1,4 @@
-````
+
 ```
 void rvereseArray(int arr[], int start, int end)
 {
@@ -12,4 +12,4 @@ void rvereseArray(int arr[], int start, int end)
     } 
 } 
 ```
-````
+
