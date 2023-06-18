@@ -1,6 +1,6 @@
 
-```
-void rvereseArray(int arr[], int start, int end)
+
+void reverseArray(int arr[], int start, int end)
 {
     while (start < end)
     {
@@ -11,5 +11,4 @@ void rvereseArray(int arr[], int start, int end)
         end--;
     } 
 } 
-```
 
